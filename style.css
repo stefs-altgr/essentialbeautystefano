@@ -1,0 +1,584 @@
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #fffcfa;
+  height: 4240px;
+  position: relative;
+  overflow: hidden;
+}
+.essential-beauty-1 {
+  width: 1440px;
+  height: 307px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1440/307;
+}
+.logo-estetica-734743-1 {
+  width: 156px;
+  height: 156px;
+  position: absolute;
+  left: 642px;
+  top: 326px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-12 {
+  width: 1440px;
+  height: 219px;
+  position: absolute;
+  left: -1px;
+  top: 4021px;
+  overflow: visible;
+}
+.rectangle-5 {
+  background: #734743;
+  width: 1442px;
+  height: 526px;
+  position: absolute;
+  left: -2px;
+  top: 716px;
+}
+.rectangle {
+  background: #734743;
+  width: 1441px;
+  height: 2279px;
+  position: absolute;
+  left: -1px;
+  top: 1742px;
+}
+.essential-beauty {
+  color: #814541;
+  text-align: left;
+  font-family: "SpectralSc-Medium", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+  text-decoration: underline;
+  position: absolute;
+  left: 484px;
+  top: 499px;
+  width: 476px;
+  height: 89px;
+}
+.abrace {
+  color: #b3b1b1;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 82px;
+  letter-spacing: 0.07em;
+  font-weight: 700;
+  position: absolute;
+  left: 91px;
+  top: 1327px;
+  width: 373px;
+  height: 85px;
+}
+.ju-ven-tude {
+  color: #734743;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 100px;
+  line-height: 87px;
+  font-weight: 700;
+  position: absolute;
+  left: 267px;
+  top: 1429px;
+}
+.sua {
+  color: #b3b1b1;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 82px;
+  font-weight: 700;
+  position: absolute;
+  left: 91px;
+  top: 1419px;
+}
+.rectangle-6 {
+  background: rgba(255, 252, 250, 0.5);
+  width: 272px;
+  height: 83px;
+  position: absolute;
+  left: 131px;
+  top: 857px;
+}
+.rectangle-9 {
+  background: rgba(255, 252, 250, 0.5);
+  width: 272px;
+  height: 146px;
+  position: absolute;
+  left: 131px;
+  top: 940px;
+}
+.sobre {
+  color: #734743;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 79px;
+  font-weight: 700;
+  position: absolute;
+  left: 144px;
+  top: 839px;
+  width: 268px;
+  height: 106px;
+}
+.n-s {
+  color: #fffcfa;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 101px;
+  letter-spacing: 0.25em;
+  font-weight: 700;
+  position: absolute;
+  left: 147px;
+  top: 945px;
+  width: 268px;
+  height: 106px;
+}
+.com-procedimentos-que-promovem-sa-de-e-beleza-valorizando-cada-detalhe-da-sua-pele {
+  color: #734743;
+  text-align: right;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 45px;
+  line-height: 59px;
+  font-weight: 400;
+  position: absolute;
+  left: 748px;
+  top: 1386px;
+  width: 575px;
+  height: 224px;
+}
+.rectangle-14 {
+  background: #b9a99c;
+  border-radius: 0px 0px 40px 40px;
+  width: 1226px;
+  height: 1766px;
+  position: absolute;
+  left: 131px;
+  top: 1934px;
+}
+.rectangle-10 {
+  background: #fffcfa;
+  border-radius: 20px 60px 20px 60px;
+  width: 1226px;
+  height: 122px;
+  position: absolute;
+  left: 131px;
+  top: 1861px;
+}
+.rectangle-13 {
+  background: #fffcfa;
+  border-radius: 20px 60px 20px 60px;
+  width: 1226px;
+  height: 122px;
+  position: absolute;
+  left: 131px;
+  top: 3794px;
+}
+.especialidades {
+  color: #734743;
+  text-align: right;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 50px;
+  line-height: 59px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 279px;
+  top: 1894px;
+  width: 444px;
+}
+.agende-j {
+  color: #734743;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 50px;
+  line-height: 59px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 279px;
+  top: 3825px;
+}
+.div {
+  color: #734743;
+  text-align: right;
+  font-family: "SofiaSans-Regular", sans-serif;
+  font-size: 90px;
+  line-height: 59px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 212px;
+  top: 1896px;
+  width: 59px;
+  height: 66px;
+}
+.div2 {
+  color: #734743;
+  text-align: right;
+  font-family: "SofiaSans-Regular", sans-serif;
+  font-size: 90px;
+  line-height: 59px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 212px;
+  top: 3828px;
+  width: 41px;
+  height: 66px;
+}
+.logo-estetica-f-2-f-2-f-2-1 {
+  width: 151px;
+  height: 151px;
+  position: absolute;
+  left: 41px;
+  top: 4055px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.endere-o {
+  color: #fbfaf9;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 37px;
+  line-height: 59px;
+  font-weight: 700;
+  position: absolute;
+  left: 287px;
+  top: 4055px;
+  width: 210px;
+  height: 63px;
+}
+.av-ceslso-portiolli-1109 {
+  color: #fffcfa;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 26px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 287px;
+  top: 4118px;
+}
+.atendimento {
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 37px;
+  line-height: 59px;
+  font-weight: 700;
+  position: absolute;
+  left: 646px;
+  top: 4055px;
+}
+.atendimento-span {
+  color: #fffcfa;
+}
+.atendimento-span2 {
+  color: #000000;
+}
+.segunda-sexta-das-08-00-18-00 {
+  color: #fffcfa;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 4118px;
+  width: 431px;
+  height: 49px;
+}
+.contato {
+  color: #fffcfa;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 37px;
+  line-height: 59px;
+  font-weight: 700;
+  position: absolute;
+  left: 1077px;
+  top: 4055px;
+  width: 197px;
+  height: 63px;
+}
+.essential-5893 {
+  color: #fffcfa;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1077px;
+  top: 4114px;
+  width: 522px;
+  height: 51px;
+}
+._16-99564-1713 {
+  color: #fffcfa;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 1077px;
+  top: 4159px;
+  width: 240px;
+  height: 42px;
+}
+.rectangle-15 {
+  background: #734743;
+  border-radius: 30px;
+  width: 1045px;
+  height: 258px;
+  position: absolute;
+  left: 221px;
+  top: 2021px;
+}
+.rectangle-16 {
+  background: #734743;
+  border-radius: 30px;
+  width: 1045px;
+  height: 258px;
+  position: absolute;
+  left: 221px;
+  top: 2338px;
+}
+.rectangle-17 {
+  background: #734743;
+  border-radius: 30px;
+  width: 1045px;
+  height: 258px;
+  position: absolute;
+  left: 221px;
+  top: 2655px;
+}
+.rectangle-18 {
+  background: #734743;
+  border-radius: 30px;
+  width: 1045px;
+  height: 305px;
+  position: absolute;
+  left: 221px;
+  top: 2972px;
+}
+.rectangle-19 {
+  background: #734743;
+  border-radius: 30px;
+  width: 1045px;
+  height: 305px;
+  position: absolute;
+  left: 221px;
+  top: 3336px;
+}
+.design-sem-nome-4-1 {
+  width: 219px;
+  height: 219px;
+  position: absolute;
+  left: 221px;
+  top: 3006px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.design-sem-nome-1-1 {
+  width: 190px;
+  height: 189px;
+  position: absolute;
+  left: 242px;
+  top: 2055px;
+  object-fit: cover;
+  aspect-ratio: 190/189;
+}
+.limpeza-de-pele {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 59px;
+  letter-spacing: 0.4em;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 2055px;
+  width: 767px;
+  height: 50px;
+}
+.peeling-qu-mico {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 59px;
+  letter-spacing: 0.4em;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 2372px;
+  width: 767px;
+  height: 50px;
+}
+.microagulhamento {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 59px;
+  letter-spacing: 0.4em;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 2689px;
+  width: 767px;
+  height: 50px;
+}
+.hidrata-o-facial-profunda {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 50px;
+  letter-spacing: 0.4em;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 3006px;
+  width: 767px;
+  height: 96px;
+}
+.tratamento-anti-rugas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SpaceMono-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 50px;
+  letter-spacing: 0.4em;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 3370px;
+  width: 767px;
+  height: 96px;
+}
+.remo-o-de-impurezas-cravos-e-c-lulas-mortas-para-uma-pele-mais-saud-vel-e-radiante {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 2126px;
+  width: 746px;
+}
+.esfolia-o-profunda-que-trata-manchas-cicatrizes-de-acne-e-linhas-finas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 2443px;
+  width: 613px;
+}
+.estimula-a-produ-o-de-col-geno-melhorando-a-textura-da-pele-e-reduzindo-rugas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 2760px;
+  width: 613px;
+}
+.reposi-o-de-umidade-e-nutrientes-perfeita-para-peles-secas-e-sens-veis {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 3123px;
+  width: 613px;
+}
+.redu-o-de-rugas-e-linhas-de-express-o-com-m-scaras-e-tecnologias-avan-adas-como-a-radiofrequ-ncia {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 455px;
+  top: 3487px;
+  width: 697px;
+}
+.design-sem-nome-2-1 {
+  width: 185px;
+  height: 185px;
+  position: absolute;
+  left: 270px;
+  top: 2372px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.design-sem-nome-3-1 {
+  width: 204px;
+  height: 204px;
+  position: absolute;
+  left: 242px;
+  top: 2683px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.design-sem-nome-5-1 {
+  width: 237px;
+  height: 237px;
+  position: absolute;
+  left: 218px;
+  top: 3371px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.procedimentos-esteticos-2 {
+  width: 1440px;
+  height: 500px;
+  position: absolute;
+  left: -2px;
+  top: 1242px;
+  object-fit: cover;
+  aspect-ratio: 1440/500;
+}
+.cl-nica-especializada-em-real-ar-a-beleza-feminina-e-cuidar-da-sua-pele-com-tratamentos-est-ticos-de-alta-qualidade-especialistas-em-est-tica-anti-idade {
+  color: #ded8d4;
+  text-align: left;
+  font-family: "Spinnaker-Regular", sans-serif;
+  font-size: 45px;
+  line-height: 59px;
+  font-weight: 400;
+  position: absolute;
+  left: 638px;
+  top: 805px;
+  width: 685px;
+  height: 388px;
+}
